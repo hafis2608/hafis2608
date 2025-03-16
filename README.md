@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭  I am a recent IT graduate with web development skills. I am interested in QA engineering and use my web development knowledge to test and improve software quality. This helps me ensure products are high-quality from development to launch**
+ 🔭  I am a recent IT graduate with web development skills. I am interested in QA engineering and use my web development knowledge to test and improve software quality. This helps me ensure products are high-quality from development to launch
 
  </div>
  
