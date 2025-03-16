@@ -30,11 +30,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,javascript,mysql,webdriverio,cypress" alt="Tech Stack Icons" />
 </a>
 </div>
-
 <br/>
 <hr/>
 <br/>
