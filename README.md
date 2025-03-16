@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭  Saya adalah Fresh Graduate di bidang Teknologi Informasi dengan fokus pada Quality Assurance dan pengujian perangkat lunak. Saya memiliki pengalaman dalam QA manual & otomatis, serta memahami pengujian API dan tools pengujian**
+ 🔭  I am a recent IT graduate with web development skills. I am interested in QA engineering and use my web development knowledge to test and improve software quality. This helps me ensure products are high-quality from development to launch**
 
  </div>
  
