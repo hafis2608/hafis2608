@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,javascript,mysql,cypress,postman" alt="Tech Stack Icons" />
-
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,javascript,mysql,cypress,postman" alt="Tech Stack Icons" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="Robot Framework" width="50" height="50" />
 </a>
 </div>
 <br/>
